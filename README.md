@@ -1,2 +1,24 @@
-# Drin
-Repository for the Drin nexus assessment model
+# Drin nexus assessment model
+
+## Installation
+
+Install snakemake using conda into a new environment called `snakemake`:
+
+```bash
+conda install -c conda-forge mamba
+mamba create -c bioconda -c conda-forge -n snakemake snakemake-minimal pandas
+```
+
+Then, activate the environment using `conda activate snakemake` on Mac and Linux, or `activate snakemake` on Windows.
+
+## Running the workflow
+
+To run the workflow, using the command `snakemake --use-conda --cores 4`
+
+## Plotting the workflow
+
+To visualise the workflow, run the following rule: `snakemake plot_dag --use-conda  --cores 2`
+
+## Cleaning the workflow
+
+To remove all result files, type `snakemake clean --use-conda  --cores 2`
