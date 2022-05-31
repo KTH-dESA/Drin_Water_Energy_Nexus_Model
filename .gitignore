@@ -3,4 +3,9 @@ results/
 .snakemake
 .ipynb_checkpoints
 
+osemosys_scenarios/cbcoutput.txt
+
+osemosys_scenarios/res/
+
+
 Data/
