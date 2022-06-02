@@ -1,0 +1,29 @@
+country,type,tech,OLD_REF,REF,RCP26,% Diff,,RCP45,% Diff,,RCP85,% Diff
+N.Macedonia,cathcment,MKCWTLK0BD, 772 , 147 , 135 ,-8%,, 111 ,-25%,, 154 ,4%
+N.Macedonia,cathcment,MKCWTCT1BD, 119 , 542 , 144 ,-73%,, 229 ,-58%,, 325 ,-40%
+N.Macedonia,river segment,MKCWTRS1BD, 890 , 689 , 279 ,-59%,, 340 ,-51%,, 478 ,-31%
+,,,,,,,,,,,,
+N.Macedonia,spillway,MKCWTSP1BD, 120 ,, 120 ,#DIV/0!,, 120 ,#DIV/0!,, 120 ,#DIV/0!
+N.Macedonia,cathcment,MKCWTCT2BD, 611 , 902 ," 1,205 ",34%,, 928 ,3%,," 1,193 ",32%
+N.Macedonia,river segment,MKCWTRS2BD," 1,501 "," 1,591 "," 1,473 ",-7%,," 1,257 ",-21%,," 1,660 ",4%
+,,,,,,,,,,,,
+N.Macedonia,spillway,MKCWTSP2BD, 120 , 80 , 120 ,50%,, 120 ,50%,, 120 ,50%
+N.Macedonia,cathcment,MKCWTCT3DD," 1,960 "," 3,384 "," 2,822 ",-17%,," 2,578 ",-24%,," 2,930 ",-13%
+N.Macedonia,river segment,MKCWTRS3DD," 3,480 "," 4,981 "," 4,280 ",-14%,," 3,766 ",-24%,," 4,549 ",-9%
+,,,,,,,,,,,,
+Kosovo,river segment,XKCWTRS1WD," 1,657 "," 1,691 "," 2,112 ",25%,," 2,331 ",38%,," 1,750 ",4%
+,,,,,,,,,,,,
+Albania,cathcment,ALCWTCT1DD," 1,605 "," 1,734 ", 841 ,-51%,, 882 ,-49%,, 677 ,-61%
+Albania,river segment,ALCWTRS1DD," 6,741 "," 8,406 "," 7,234 ",-14%,," 6,979 ",-17%,," 6,977 ",-17%
+,,,,,,,,,,,,
+Albania,cathcment,ALCWTCT2DD," 1,932 ", 900 , 715 ,-21%,, 670 ,-26%,, 853 ,-5%
+Albania,spillway,ALCWTSP4DD, 120 ," 1,800 ", 120 ,-93%,, 120 ,-93%,, 120 ,-93%
+Albania,river segment,ALCWTRS2DD," 8,887 "," 9,684 "," 7,726 ",-20%,," 7,780 ",-20%,," 7,794 ",-20%
+,,,,,,,,,,,,
+Albania,cathcment,ALCWTCT3DD, 589 ," 1,220 ", 395 ,-68%,, 406 ,-67%,, 477 ,-61%
+Albania,spillway,ALCWTSP5DD, 120 , 800 , 120 ,-85%,, 120 ,-85%,, 120 ,-85%
+Albania,river segment,ALCWTRS3DD," 9,394 "," 10,912 "," 8,124 ",-26%,," 8,001 ",-27%,," 8,321 ",-24%
+,,,,,,,,,,,,
+Albania,cathcment,ALCWTCT4DD, 790 , 790 , 790 ,0%,, 790 ,0%,, 790 ,0%
+Albania,spillway,ALCWTSP6DD, 120 ," 1,500 ", 120 ,-92%,, 120 ,-92%,, 120 ,-92%
+Albania,river segment,ALCWTRS4DD," 10,274 "," 11,703 "," 8,915 ",-24%,," 8,567 ",-27%,," 9,325 ",-20%

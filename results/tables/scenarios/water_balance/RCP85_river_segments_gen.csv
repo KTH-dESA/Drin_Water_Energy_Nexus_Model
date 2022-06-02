@@ -1,0 +1,652 @@
+scenario,country,tech,type,year,value
+RCP85,Albania,ALCWTCT1DD,cathcment,2020,811.11
+RCP85,Albania,ALCWTCT1DD,cathcment,2021,677.36
+RCP85,Albania,ALCWTCT1DD,cathcment,2022,704.33
+RCP85,Albania,ALCWTCT1DD,cathcment,2023,640.88
+RCP85,Albania,ALCWTCT1DD,cathcment,2024,690.29
+RCP85,Albania,ALCWTCT1DD,cathcment,2025,571.82
+RCP85,Albania,ALCWTCT1DD,cathcment,2026,687.3
+RCP85,Albania,ALCWTCT1DD,cathcment,2027,744.25
+RCP85,Albania,ALCWTCT1DD,cathcment,2028,620.45
+RCP85,Albania,ALCWTCT1DD,cathcment,2029,861.96
+RCP85,Albania,ALCWTCT1DD,cathcment,2030,1077.75
+RCP85,Albania,ALCWTCT1DD,cathcment,2031,664.19
+RCP85,Albania,ALCWTCT1DD,cathcment,2032,746.25
+RCP85,Albania,ALCWTCT1DD,cathcment,2033,686.43
+RCP85,Albania,ALCWTCT1DD,cathcment,2034,822.6
+RCP85,Albania,ALCWTCT1DD,cathcment,2035,413.87
+RCP85,Albania,ALCWTCT1DD,cathcment,2036,453.87
+RCP85,Albania,ALCWTCT1DD,cathcment,2037,320.89
+RCP85,Albania,ALCWTCT1DD,cathcment,2038,738.74
+RCP85,Albania,ALCWTCT1DD,cathcment,2039,844.76
+RCP85,Albania,ALCWTCT1DD,cathcment,2040,615.94
+RCP85,Albania,ALCWTCT1DD,cathcment,2041,599.71
+RCP85,Albania,ALCWTCT1DD,cathcment,2042,339.77
+RCP85,Albania,ALCWTCT1DD,cathcment,2043,558.41
+RCP85,Albania,ALCWTCT1DD,cathcment,2044,499.34
+RCP85,Albania,ALCWTCT1DD,cathcment,2045,955.43
+RCP85,Albania,ALCWTCT1DD,cathcment,2046,579.0
+RCP85,Albania,ALCWTCT1DD,cathcment,2047,1399.38
+RCP85,Albania,ALCWTCT1DD,cathcment,2048,532.61
+RCP85,Albania,ALCWTCT1DD,cathcment,2049,533.76
+RCP85,Albania,ALCWTCT1DD,cathcment,2050,499.34
+RCP85,Albania,ALCWTCT2DD,cathcment,2020,399.35
+RCP85,Albania,ALCWTCT2DD,cathcment,2021,853.13
+RCP85,Albania,ALCWTCT2DD,cathcment,2022,800.49
+RCP85,Albania,ALCWTCT2DD,cathcment,2023,564.71
+RCP85,Albania,ALCWTCT2DD,cathcment,2024,348.41
+RCP85,Albania,ALCWTCT2DD,cathcment,2025,293.73
+RCP85,Albania,ALCWTCT2DD,cathcment,2026,643.32
+RCP85,Albania,ALCWTCT2DD,cathcment,2027,644.64
+RCP85,Albania,ALCWTCT2DD,cathcment,2028,514.86
+RCP85,Albania,ALCWTCT2DD,cathcment,2029,607.19
+RCP85,Albania,ALCWTCT2DD,cathcment,2030,697.12
+RCP85,Albania,ALCWTCT2DD,cathcment,2031,501.85
+RCP85,Albania,ALCWTCT2DD,cathcment,2032,620.22
+RCP85,Albania,ALCWTCT2DD,cathcment,2033,299.24
+RCP85,Albania,ALCWTCT2DD,cathcment,2034,741.02
+RCP85,Albania,ALCWTCT2DD,cathcment,2035,542.43
+RCP85,Albania,ALCWTCT2DD,cathcment,2036,417.93
+RCP85,Albania,ALCWTCT2DD,cathcment,2037,320.93
+RCP85,Albania,ALCWTCT2DD,cathcment,2038,499.76
+RCP85,Albania,ALCWTCT2DD,cathcment,2039,616.09
+RCP85,Albania,ALCWTCT2DD,cathcment,2040,434.53
+RCP85,Albania,ALCWTCT2DD,cathcment,2041,680.91
+RCP85,Albania,ALCWTCT2DD,cathcment,2042,338.24
+RCP85,Albania,ALCWTCT2DD,cathcment,2043,343.47
+RCP85,Albania,ALCWTCT2DD,cathcment,2044,486.47
+RCP85,Albania,ALCWTCT2DD,cathcment,2045,598.33
+RCP85,Albania,ALCWTCT2DD,cathcment,2046,1371.09
+RCP85,Albania,ALCWTCT2DD,cathcment,2047,1167.63
+RCP85,Albania,ALCWTCT2DD,cathcment,2048,579.63
+RCP85,Albania,ALCWTCT2DD,cathcment,2049,425.03
+RCP85,Albania,ALCWTCT2DD,cathcment,2050,497.89
+RCP85,Albania,ALCWTCT3DD,cathcment,2020,415.71
+RCP85,Albania,ALCWTCT3DD,cathcment,2021,476.66
+RCP85,Albania,ALCWTCT3DD,cathcment,2022,657.5
+RCP85,Albania,ALCWTCT3DD,cathcment,2023,310.59
+RCP85,Albania,ALCWTCT3DD,cathcment,2024,251.36
+RCP85,Albania,ALCWTCT3DD,cathcment,2025,265.86
+RCP85,Albania,ALCWTCT3DD,cathcment,2026,329.41
+RCP85,Albania,ALCWTCT3DD,cathcment,2027,440.59
+RCP85,Albania,ALCWTCT3DD,cathcment,2028,484.35
+RCP85,Albania,ALCWTCT3DD,cathcment,2029,375.22
+RCP85,Albania,ALCWTCT3DD,cathcment,2030,467.21
+RCP85,Albania,ALCWTCT3DD,cathcment,2031,376.08
+RCP85,Albania,ALCWTCT3DD,cathcment,2032,486.85
+RCP85,Albania,ALCWTCT3DD,cathcment,2033,203.01
+RCP85,Albania,ALCWTCT3DD,cathcment,2034,395.62
+RCP85,Albania,ALCWTCT3DD,cathcment,2035,345.15
+RCP85,Albania,ALCWTCT3DD,cathcment,2036,264.27
+RCP85,Albania,ALCWTCT3DD,cathcment,2037,177.22
+RCP85,Albania,ALCWTCT3DD,cathcment,2038,346.61
+RCP85,Albania,ALCWTCT3DD,cathcment,2039,811.29
+RCP85,Albania,ALCWTCT3DD,cathcment,2040,325.29
+RCP85,Albania,ALCWTCT3DD,cathcment,2041,362.85
+RCP85,Albania,ALCWTCT3DD,cathcment,2042,297.88
+RCP85,Albania,ALCWTCT3DD,cathcment,2043,325.04
+RCP85,Albania,ALCWTCT3DD,cathcment,2044,408.58
+RCP85,Albania,ALCWTCT3DD,cathcment,2045,318.32
+RCP85,Albania,ALCWTCT3DD,cathcment,2046,683.77
+RCP85,Albania,ALCWTCT3DD,cathcment,2047,1079.15
+RCP85,Albania,ALCWTCT3DD,cathcment,2048,284.1
+RCP85,Albania,ALCWTCT3DD,cathcment,2049,292.12
+RCP85,Albania,ALCWTCT3DD,cathcment,2050,431.04
+RCP85,Albania,ALCWTCT4DD,cathcment,2020,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2021,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2022,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2023,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2024,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2025,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2026,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2027,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2028,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2029,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2030,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2031,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2032,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2033,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2034,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2035,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2036,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2037,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2038,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2039,744.8
+RCP85,Albania,ALCWTCT4DD,cathcment,2040,775.2
+RCP85,Albania,ALCWTCT4DD,cathcment,2041,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2042,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2043,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2044,775.2
+RCP85,Albania,ALCWTCT4DD,cathcment,2045,760.0
+RCP85,Albania,ALCWTCT4DD,cathcment,2046,668.8
+RCP85,Albania,ALCWTCT4DD,cathcment,2047,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2048,684.0
+RCP85,Albania,ALCWTCT4DD,cathcment,2049,790.4
+RCP85,Albania,ALCWTCT4DD,cathcment,2050,775.2
+RCP85,Albania,ALCWTRS1DD,river segment,2020,6704.59
+RCP85,Albania,ALCWTRS1DD,river segment,2021,6976.6
+RCP85,Albania,ALCWTRS1DD,river segment,2022,8131.96
+RCP85,Albania,ALCWTRS1DD,river segment,2023,4893.45
+RCP85,Albania,ALCWTRS1DD,river segment,2024,4851.38
+RCP85,Albania,ALCWTRS1DD,river segment,2025,5925.57
+RCP85,Albania,ALCWTRS1DD,river segment,2026,6348.1
+RCP85,Albania,ALCWTRS1DD,river segment,2027,6421.5
+RCP85,Albania,ALCWTRS1DD,river segment,2028,7572.37
+RCP85,Albania,ALCWTRS1DD,river segment,2029,5957.06
+RCP85,Albania,ALCWTRS1DD,river segment,2030,7287.91
+RCP85,Albania,ALCWTRS1DD,river segment,2031,5794.56
+RCP85,Albania,ALCWTRS1DD,river segment,2032,5987.35
+RCP85,Albania,ALCWTRS1DD,river segment,2033,5026.16
+RCP85,Albania,ALCWTRS1DD,river segment,2034,5899.77
+RCP85,Albania,ALCWTRS1DD,river segment,2035,5615.99
+RCP85,Albania,ALCWTRS1DD,river segment,2036,4112.29
+RCP85,Albania,ALCWTRS1DD,river segment,2037,3895.88
+RCP85,Albania,ALCWTRS1DD,river segment,2038,5131.14
+RCP85,Albania,ALCWTRS1DD,river segment,2039,9382.61
+RCP85,Albania,ALCWTRS1DD,river segment,2040,5493.07
+RCP85,Albania,ALCWTRS1DD,river segment,2041,5363.84
+RCP85,Albania,ALCWTRS1DD,river segment,2042,5008.33
+RCP85,Albania,ALCWTRS1DD,river segment,2043,5347.47
+RCP85,Albania,ALCWTRS1DD,river segment,2044,6035.92
+RCP85,Albania,ALCWTRS1DD,river segment,2045,6618.82
+RCP85,Albania,ALCWTRS1DD,river segment,2046,10085.25
+RCP85,Albania,ALCWTRS1DD,river segment,2047,11785.79
+RCP85,Albania,ALCWTRS1DD,river segment,2048,6519.37
+RCP85,Albania,ALCWTRS1DD,river segment,2049,4579.24
+RCP85,Albania,ALCWTRS1DD,river segment,2050,6082.31
+RCP85,Albania,ALCWTRS2DD,river segment,2020,8644.34
+RCP85,Albania,ALCWTRS2DD,river segment,2021,7794.2
+RCP85,Albania,ALCWTRS2DD,river segment,2022,7913.92
+RCP85,Albania,ALCWTRS2DD,river segment,2023,6114.63
+RCP85,Albania,ALCWTRS2DD,river segment,2024,5931.27
+RCP85,Albania,ALCWTRS2DD,river segment,2025,6528.54
+RCP85,Albania,ALCWTRS2DD,river segment,2026,6914.74
+RCP85,Albania,ALCWTRS2DD,river segment,2027,6873.56
+RCP85,Albania,ALCWTRS2DD,river segment,2028,8214.53
+RCP85,Albania,ALCWTRS2DD,river segment,2029,7088.2
+RCP85,Albania,ALCWTRS2DD,river segment,2030,7410.61
+RCP85,Albania,ALCWTRS2DD,river segment,2031,6983.85
+RCP85,Albania,ALCWTRS2DD,river segment,2032,5779.0
+RCP85,Albania,ALCWTRS2DD,river segment,2033,6453.39
+RCP85,Albania,ALCWTRS2DD,river segment,2034,6034.34
+RCP85,Albania,ALCWTRS2DD,river segment,2035,5558.07
+RCP85,Albania,ALCWTRS2DD,river segment,2036,4946.31
+RCP85,Albania,ALCWTRS2DD,river segment,2037,5454.38
+RCP85,Albania,ALCWTRS2DD,river segment,2038,5551.83
+RCP85,Albania,ALCWTRS2DD,river segment,2039,9071.38
+RCP85,Albania,ALCWTRS2DD,river segment,2040,7439.73
+RCP85,Albania,ALCWTRS2DD,river segment,2041,6068.98
+RCP85,Albania,ALCWTRS2DD,river segment,2042,5370.21
+RCP85,Albania,ALCWTRS2DD,river segment,2043,5421.98
+RCP85,Albania,ALCWTRS2DD,river segment,2044,7047.23
+RCP85,Albania,ALCWTRS2DD,river segment,2045,7510.11
+RCP85,Albania,ALCWTRS2DD,river segment,2046,11489.79
+RCP85,Albania,ALCWTRS2DD,river segment,2047,12173.05
+RCP85,Albania,ALCWTRS2DD,river segment,2048,8348.67
+RCP85,Albania,ALCWTRS2DD,river segment,2049,5124.33
+RCP85,Albania,ALCWTRS2DD,river segment,2050,6190.01
+RCP85,Albania,ALCWTRS3DD,river segment,2020,8912.52
+RCP85,Albania,ALCWTRS3DD,river segment,2021,8320.8
+RCP85,Albania,ALCWTRS3DD,river segment,2022,8679.62
+RCP85,Albania,ALCWTRS3DD,river segment,2023,6425.22
+RCP85,Albania,ALCWTRS3DD,river segment,2024,6139.82
+RCP85,Albania,ALCWTRS3DD,river segment,2025,6794.4
+RCP85,Albania,ALCWTRS3DD,river segment,2026,7244.14
+RCP85,Albania,ALCWTRS3DD,river segment,2027,7093.75
+RCP85,Albania,ALCWTRS3DD,river segment,2028,8884.97
+RCP85,Albania,ALCWTRS3DD,river segment,2029,7497.73
+RCP85,Albania,ALCWTRS3DD,river segment,2030,7657.42
+RCP85,Albania,ALCWTRS3DD,river segment,2031,7409.56
+RCP85,Albania,ALCWTRS3DD,river segment,2032,6216.21
+RCP85,Albania,ALCWTRS3DD,river segment,2033,6775.39
+RCP85,Albania,ALCWTRS3DD,river segment,2034,6423.65
+RCP85,Albania,ALCWTRS3DD,river segment,2035,5790.54
+RCP85,Albania,ALCWTRS3DD,river segment,2036,5430.98
+RCP85,Albania,ALCWTRS3DD,river segment,2037,5631.6
+RCP85,Albania,ALCWTRS3DD,river segment,2038,5882.8
+RCP85,Albania,ALCWTRS3DD,river segment,2039,9882.7
+RCP85,Albania,ALCWTRS3DD,river segment,2040,7693.61
+RCP85,Albania,ALCWTRS3DD,river segment,2041,6298.45
+RCP85,Albania,ALCWTRS3DD,river segment,2042,5731.36
+RCP85,Albania,ALCWTRS3DD,river segment,2043,5725.61
+RCP85,Albania,ALCWTRS3DD,river segment,2044,7413.95
+RCP85,Albania,ALCWTRS3DD,river segment,2045,8048.83
+RCP85,Albania,ALCWTRS3DD,river segment,2046,12173.57
+RCP85,Albania,ALCWTRS3DD,river segment,2047,13252.2
+RCP85,Albania,ALCWTRS3DD,river segment,2048,8442.42
+RCP85,Albania,ALCWTRS3DD,river segment,2049,5606.79
+RCP85,Albania,ALCWTRS3DD,river segment,2050,6574.5
+RCP85,Albania,ALCWTRS4DD,river segment,2020,9489.59
+RCP85,Albania,ALCWTRS4DD,river segment,2021,9324.54
+RCP85,Albania,ALCWTRS4DD,river segment,2022,9444.05
+RCP85,Albania,ALCWTRS4DD,river segment,2023,7016.59
+RCP85,Albania,ALCWTRS4DD,river segment,2024,7155.22
+RCP85,Albania,ALCWTRS4DD,river segment,2025,7584.8
+RCP85,Albania,ALCWTRS4DD,river segment,2026,8034.54
+RCP85,Albania,ALCWTRS4DD,river segment,2027,7754.95
+RCP85,Albania,ALCWTRS4DD,river segment,2028,9719.94
+RCP85,Albania,ALCWTRS4DD,river segment,2029,8372.77
+RCP85,Albania,ALCWTRS4DD,river segment,2030,8222.82
+RCP85,Albania,ALCWTRS4DD,river segment,2031,8424.96
+RCP85,Albania,ALCWTRS4DD,river segment,2032,7006.61
+RCP85,Albania,ALCWTRS4DD,river segment,2033,7565.79
+RCP85,Albania,ALCWTRS4DD,river segment,2034,7089.34
+RCP85,Albania,ALCWTRS4DD,river segment,2035,6505.04
+RCP85,Albania,ALCWTRS4DD,river segment,2036,6422.0
+RCP85,Albania,ALCWTRS4DD,river segment,2037,6422.0
+RCP85,Albania,ALCWTRS4DD,river segment,2038,6591.1
+RCP85,Albania,ALCWTRS4DD,river segment,2039,10610.14
+RCP85,Albania,ALCWTRS4DD,river segment,2040,8343.28
+RCP85,Albania,ALCWTRS4DD,river segment,2041,7088.85
+RCP85,Albania,ALCWTRS4DD,river segment,2042,6677.61
+RCP85,Albania,ALCWTRS4DD,river segment,2043,6430.76
+RCP85,Albania,ALCWTRS4DD,river segment,2044,8343.55
+RCP85,Albania,ALCWTRS4DD,river segment,2045,8808.83
+RCP85,Albania,ALCWTRS4DD,river segment,2046,12589.54
+RCP85,Albania,ALCWTRS4DD,river segment,2047,13726.28
+RCP85,Albania,ALCWTRS4DD,river segment,2048,8997.03
+RCP85,Albania,ALCWTRS4DD,river segment,2049,6608.38
+RCP85,Albania,ALCWTRS4DD,river segment,2050,7340.67
+RCP85,Albania,ALCWTSP4DD,spillway,2020,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2021,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2022,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2023,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2024,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2025,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2026,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2027,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2028,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2029,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2030,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2031,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2032,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2033,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2034,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2035,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2036,1701.58
+RCP85,Albania,ALCWTSP4DD,spillway,2037,2343.18
+RCP85,Albania,ALCWTSP4DD,spillway,2038,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2039,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2040,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2041,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2042,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2043,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2044,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2045,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2046,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2047,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2048,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2049,120.0
+RCP85,Albania,ALCWTSP4DD,spillway,2050,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2020,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2021,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2022,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2023,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2024,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2025,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2026,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2027,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2028,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2029,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2030,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2031,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2032,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2033,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2034,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2035,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2036,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2037,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2038,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2039,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2040,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2041,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2042,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2043,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2044,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2045,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2046,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2047,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2048,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2049,120.0
+RCP85,Albania,ALCWTSP5DD,spillway,2050,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2020,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2021,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2022,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2023,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2024,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2025,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2026,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2027,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2028,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2029,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2030,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2031,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2032,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2033,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2034,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2035,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2036,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2037,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2038,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2039,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2040,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2041,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2042,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2043,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2044,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2045,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2046,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2047,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2048,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2049,120.0
+RCP85,Albania,ALCWTSP6DD,spillway,2050,120.0
+RCP85,Kosovo,XKCWTRS1WD,river segment,2020,1715.77
+RCP85,Kosovo,XKCWTRS1WD,river segment,2021,1749.91
+RCP85,Kosovo,XKCWTRS1WD,river segment,2022,2198.43
+RCP85,Kosovo,XKCWTRS1WD,river segment,2023,1073.12
+RCP85,Kosovo,XKCWTRS1WD,river segment,2024,1400.62
+RCP85,Kosovo,XKCWTRS1WD,river segment,2025,1519.28
+RCP85,Kosovo,XKCWTRS1WD,river segment,2026,2066.04
+RCP85,Kosovo,XKCWTRS1WD,river segment,2027,1848.22
+RCP85,Kosovo,XKCWTRS1WD,river segment,2028,1561.25
+RCP85,Kosovo,XKCWTRS1WD,river segment,2029,1463.76
+RCP85,Kosovo,XKCWTRS1WD,river segment,2030,1837.37
+RCP85,Kosovo,XKCWTRS1WD,river segment,2031,1740.13
+RCP85,Kosovo,XKCWTRS1WD,river segment,2032,1520.8
+RCP85,Kosovo,XKCWTRS1WD,river segment,2033,1639.55
+RCP85,Kosovo,XKCWTRS1WD,river segment,2034,1668.94
+RCP85,Kosovo,XKCWTRS1WD,river segment,2035,1537.77
+RCP85,Kosovo,XKCWTRS1WD,river segment,2036,1109.67
+RCP85,Kosovo,XKCWTRS1WD,river segment,2037,1265.27
+RCP85,Kosovo,XKCWTRS1WD,river segment,2038,1278.39
+RCP85,Kosovo,XKCWTRS1WD,river segment,2039,2484.55
+RCP85,Kosovo,XKCWTRS1WD,river segment,2040,1349.35
+RCP85,Kosovo,XKCWTRS1WD,river segment,2041,1396.91
+RCP85,Kosovo,XKCWTRS1WD,river segment,2042,1044.86
+RCP85,Kosovo,XKCWTRS1WD,river segment,2043,1272.11
+RCP85,Kosovo,XKCWTRS1WD,river segment,2044,1634.57
+RCP85,Kosovo,XKCWTRS1WD,river segment,2045,2048.36
+RCP85,Kosovo,XKCWTRS1WD,river segment,2046,2942.9
+RCP85,Kosovo,XKCWTRS1WD,river segment,2047,4011.74
+RCP85,Kosovo,XKCWTRS1WD,river segment,2048,2440.08
+RCP85,Kosovo,XKCWTRS1WD,river segment,2049,1306.41
+RCP85,Kosovo,XKCWTRS1WD,river segment,2050,1634.57
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2020,223.44
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2021,324.89
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2022,226.28
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2023,145.95
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2024,109.84
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2025,115.93
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2026,179.87
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2027,181.93
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2028,195.61
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2029,130.06
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2030,177.96
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2031,183.86
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2032,177.42
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2033,100.26
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2034,136.93
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2035,126.83
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2036,131.52
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2037,64.87
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2038,101.59
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2039,355.21
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2040,175.22
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2041,138.47
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2042,136.75
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2043,118.76
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2044,138.9
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2045,185.79
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2046,242.61
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2047,492.03
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2048,138.33
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2049,97.2
+RCP85,N.Macedonia,MKCWTCT1BD,cathcment,2050,138.9
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2020,851.52
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2021,1192.88
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2022,1292.54
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2023,713.9
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2024,487.3
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2025,813.91
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2026,876.21
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2027,953.32
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2028,1214.76
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2029,900.58
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2030,985.91
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2031,750.52
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2032,802.04
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2033,443.36
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2034,783.93
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2035,810.95
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2036,400.01
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2037,343.6
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2038,726.79
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2039,1465.27
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2040,796.62
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2041,710.65
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2042,843.61
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2043,567.73
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2044,944.59
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2045,735.31
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2046,1823.58
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2047,1794.3
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2048,662.94
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2049,562.95
+RCP85,N.Macedonia,MKCWTCT2BD,cathcment,2050,956.31
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2020,2969.93
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2021,2930.41
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2022,3575.99
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2023,2146.92
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2024,2017.46
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2025,2851.37
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2026,2363.3
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2027,2548.05
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2028,3857.15
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2029,2449.25
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2030,3023.28
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2031,2301.05
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2032,2526.32
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2033,2010.15
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2034,2377.13
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2035,2578.68
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2036,1798.16
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2037,1651.94
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2038,2208.18
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2039,4098.22
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2040,2395.9
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2041,2367.25
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2042,2483.83
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2043,2600.42
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2044,2713.05
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2045,2520.07
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2046,4349.3
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2047,4138.47
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2048,2618.77
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2049,1908.55
+RCP85,N.Macedonia,MKCWTCT3DD,cathcment,2050,2713.05
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2020,154.9
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2021,153.52
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2022,147.98
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2023,156.4
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2024,149.73
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2025,34.23
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2026,155.13
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2027,154.26
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2028,156.4
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2029,155.46
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2030,155.71
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2031,156.36
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2032,156.4
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2033,156.13
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2034,155.13
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2035,156.4
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2036,156.4
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2037,154.79
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2038,154.71
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2039,154.23
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2040,154.92
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2041,156.4
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2042,156.4
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2043,156.4
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2044,155.86
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2045,156.4
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2046,153.72
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2047,148.35
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2048,151.8
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2049,154.78
+RCP85,N.Macedonia,MKCWTLK0BD,cathcment,2050,155.86
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2020,378.35
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2021,478.41
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2022,374.26
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2023,302.35
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2024,259.58
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2025,150.17
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2026,335.0
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2027,336.19
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2028,352.0
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2029,285.53
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2030,333.68
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2031,340.22
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2032,333.81
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2033,256.38
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2034,292.06
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2035,283.23
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2036,287.92
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2037,219.66
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2038,256.3
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2039,509.44
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2040,330.14
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2041,294.86
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2042,293.14
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2043,275.16
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2044,294.76
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2045,342.19
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2046,396.32
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2047,640.39
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2048,290.13
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2049,251.98
+RCP85,N.Macedonia,MKCWTRS1BD,river segment,2050,294.76
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2020,1235.06
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2021,1660.23
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2022,1661.94
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2023,1027.3
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2024,735.82
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2025,964.07
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2026,1211.21
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2027,1289.52
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2028,1566.76
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2029,1186.1
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2030,1319.59
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2031,1094.99
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2032,1131.6
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2033,701.14
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2034,1074.6
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2035,1094.18
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2036,687.93
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2037,574.32
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2038,972.03
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2039,1974.71
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2040,1132.24
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2041,1000.04
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2042,1136.76
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2043,849.62
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2044,1243.68
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2045,1066.44
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2046,2219.9
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2047,2431.52
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2048,953.07
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2049,815.84
+RCP85,N.Macedonia,MKCWTRS2BD,river segment,2050,1250.17
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2020,4177.71
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2021,4549.34
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2022,5229.2
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2023,3179.45
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2024,2760.47
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2025,3834.46
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2026,3594.77
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2027,3829.04
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2028,5390.67
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2029,3631.33
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2030,4372.8
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2031,3390.25
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2032,3720.31
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2033,2700.18
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2034,3408.23
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2035,3664.35
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2036,2548.75
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2037,2309.71
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2038,3114.01
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2039,6053.3
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2040,3527.79
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2041,3367.22
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2042,3623.7
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2043,3516.95
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2044,3902.01
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2045,3615.04
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2046,6563.34
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2047,6374.67
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2048,3546.68
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2049,2739.07
+RCP85,N.Macedonia,MKCWTRS3DD,river segment,2050,3948.4
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2020,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2021,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2022,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2023,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2024,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2025,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2026,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2027,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2028,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2029,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2030,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2031,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2032,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2033,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2034,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2035,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2036,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2037,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2038,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2039,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2040,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2041,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2042,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2043,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2044,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2045,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2046,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2047,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2048,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2049,120.0
+RCP85,N.Macedonia,MKCWTSP1BD,spillway,2050,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2020,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2021,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2022,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2023,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2024,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2025,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2026,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2027,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2028,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2029,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2030,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2031,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2032,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2033,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2034,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2035,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2036,1433.39
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2037,399.9
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2038,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2039,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2040,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2041,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2042,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2043,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2044,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2045,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2046,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2047,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2048,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2049,120.0
+RCP85,N.Macedonia,MKCWTSP2BD,spillway,2050,120.0

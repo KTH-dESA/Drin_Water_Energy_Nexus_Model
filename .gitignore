@@ -1,5 +1,5 @@
 *.log
-results/
+
 .snakemake
 .ipynb_checkpoints
 
