@@ -1,29 +1,20 @@
 # Drin nexus assessment model
+## OSeMOSYS Scenario runs: 
 
-Python scripts for the integrated Water-Energy model of the Drin River Basin. 
+In this directory you can find the required files to run the different scenarios using osemosys. 
+The directory contains seven scenarios:
 
-## Installation
-
-For a full list of dependencies, please see the requirements.txt file. 
-
-Install snakemake using conda into a new environment called `snakemake`:
-
-```bash
-conda install -c conda-forge mamba
-mamba create -c bioconda -c conda-forge -n snakemake snakemake-minimal pandas
-```
-
-Then, activate the environment using `conda activate snakemake` on Mac and Linux, or `activate snakemake` on Windows.
-
-## Running the workflow
+1. REF: representing the reference scenario 
+2. RCP26: representing the climate change scenario under RCP 2.6 projection
+3. RCP45: representing the climate change scenario under RCP 4.5 projection
+4. RCP85: representing the climate change scenario under RCP 8.5 projection
+5. FP05: representing the flood protection scenario with increased buffer volume in the dam of 5%.
+6. FP20: representing the flood protection scenario with increased buffer volume in the dam of 20%.
+7. ND_SKAVICA: representing the New Dam (Skavica) scenario. 
 
 
-To run the workflow, using the command `snakemake --use-conda --cores 4`
+Each scenario folder contains the model.txt and the data.txt files (Note. that the naming is slightly different). The folder also contains the jupyter notebook that will help running the scenario and visualize the results. 
 
-## Plotting the workflow
-
-To visualise the workflow, run the following rule: `snakemake plot_dag --use-conda  --cores 2`
-
-## Cleaning the workflow
-
-To remove all result files, type `snakemake clean --use-conda  --cores 2`
+To be able to run the model you will need 
+* glpk package: http://winglpk.sourceforge.net/ 
+* cbc package: https://www.coin-or.org/Cbc/ 

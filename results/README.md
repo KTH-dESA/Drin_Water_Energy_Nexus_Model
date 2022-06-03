@@ -1,29 +1,10 @@
 # Drin nexus assessment model
+## Visualazing results
 
-Python scripts for the integrated Water-Energy model of the Drin River Basin. 
+To explore results, you can use either:
 
-## Installation
+*  DRIN_Scenario_runner_and_results_vis.ipynb: this notebook will run each osemosys scenario and visualize its resutls. This notebook can be found under (osemosys_scenarios) and under the respective folder of each scenaario. 
 
-For a full list of dependencies, please see the requirements.txt file. 
+*  DRIN_RESULTS_COMPARISON.ipynb: this notebook will compare the results of more than one scenario and will generate costumized graphs. This notebook can be found under (results). 
 
-Install snakemake using conda into a new environment called `snakemake`:
-
-```bash
-conda install -c conda-forge mamba
-mamba create -c bioconda -c conda-forge -n snakemake snakemake-minimal pandas
-```
-
-Then, activate the environment using `conda activate snakemake` on Mac and Linux, or `activate snakemake` on Windows.
-
-## Running the workflow
-
-
-To run the workflow, using the command `snakemake --use-conda --cores 4`
-
-## Plotting the workflow
-
-To visualise the workflow, run the following rule: `snakemake plot_dag --use-conda  --cores 2`
-
-## Cleaning the workflow
-
-To remove all result files, type `snakemake clean --use-conda  --cores 2`
+To be able to use the (DRIN_RESULTS_COMPARISON.ipynb), you need to first run the osemosys scenarios and generate the (cbcoutput.txt) for each scenario. 

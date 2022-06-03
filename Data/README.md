@@ -1,29 +1,11 @@
 # Drin nexus assessment model
+## Data
 
-Python scripts for the integrated Water-Energy model of the Drin River Basin. 
+The key input data used in the Drin water-energy model are given in this directory. 
+smhi_data: contains the raw data obtained from the Swedish Metrological and Hydrological Institute (SMHI) for two climates
+- Historical Climate:  https://hypeweb.smhi.se/explore-water/historical-data/europe-time-series/ 
+- Climate change projections: https://hypeweb.smhi.se/explore-water/climate-change-data/europe-climate-change/ 
 
-## Installation
+See the preprocessing scripts to learn more how this data is used in the model. 
 
-For a full list of dependencies, please see the requirements.txt file. 
-
-Install snakemake using conda into a new environment called `snakemake`:
-
-```bash
-conda install -c conda-forge mamba
-mamba create -c bioconda -c conda-forge -n snakemake snakemake-minimal pandas
-```
-
-Then, activate the environment using `conda activate snakemake` on Mac and Linux, or `activate snakemake` on Windows.
-
-## Running the workflow
-
-
-To run the workflow, using the command `snakemake --use-conda --cores 4`
-
-## Plotting the workflow
-
-To visualise the workflow, run the following rule: `snakemake plot_dag --use-conda  --cores 2`
-
-## Cleaning the workflow
-
-To remove all result files, type `snakemake clean --use-conda  --cores 2`
+The capacity factor data were obtained from Renewables.ninja database: https://www.renewables.ninja/ 
