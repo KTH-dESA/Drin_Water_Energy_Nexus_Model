@@ -5,13 +5,13 @@ This repository contains the working code for the “Drin River Basin Nexus Asse
 
 
 ## Installation
-To install the required dependencies, install the miniconda or conda package manager and create a conda environments running conda env create -n <name-of-environment> -f envs/requirements.txt in the conda shell or git bash (replace <name-of-environment> by a custom name for your environment). Afterwards, activate the environment with conda activate <name-of-environment> or source activate <name-of-environment>.
+To install the required dependencies, install the miniconda or conda package manager and create a conda environments running `conda env create -n <name-of-environment> -f envs/requirements.txt` in the conda shell or git bash (replace <name-of-environment> by a custom name for your environment). Afterwards, activate the environment with `conda activate <name-of-environment>` or `source activate <name-of-environment>`.
 
 The notebook environment is intended to run the standalone jupyter notebooks, provided for each step of the model. 
 
 
 ## Running the Model
-To run the model, first activate the previously created conda environment for notebooks by running conda activate <name-of-environment> source activate <name-of-environment> and then type jupyter notebook. Alternatively, you can start the Anaconda navigator, select the previously created environment and start a Jupyter notebook session. Open any of the runner files of either model and follow the steps.
+To run the model, first activate the previously created conda environment for notebooks by running `conda activate <name-of-environment>` or `source activate <name-of-environment>` and then type `jupyter notebook` and hit entre. Alternatively, you can start the Anaconda navigator, select the previously created environment and start a Jupyter notebook session. Open any of the runner files of either model and follow the steps.
 
 
 
@@ -24,7 +24,7 @@ To explore results, you can use either:
 
 ## Credits
 
-**Conceptualization:** [Youssef Almulla](https://www.kth.se/profile/almulla), [Emir Fejzic](https://www.kth.se/profile/fejzic), [Vignesh Sridharan](https://www.imperial.ac.uk/sustainable-gas-institute/people/staffresearchers/), [Klodian Zaimi](https://www.researchgate.net/profile/Klodian-Zaimi/) <br /> , [Lucia De Strasser](https://unece.org/environment-policy/water/contacts/staff-unece-secretariat-servicing-convention/) <br />and [Francesco Gardumi](https://www.kth.se/profile/gardumi) <br />
-**Methodology:** [Youssef Almulla](https://www.kth.se/profile/almulla) and [Francesco Gardumi](https://www.kth.se/profile/gardumi) on the energy model, [Klodian Zaimi](https://www.researchgate.net/profile/Klodian-Zaimi/)  on the water model.
-**Software:** [Youssef Almulla](https://github.com/JZF07), [Emir Fejzic](https://github.com/EmiFej), [Vignesh Sridharan](https://github.com/vignesh1987) and [Francesco Gardumi](https://github.com/FraGard) <br />
-**Funding, Management and Advisory support:** [Lucia De Strasser](https://unece.org/environment-policy/water/contacts/staff-unece-secretariat-servicing-convention/) <br />and [Francesco Gardumi](https://www.kth.se/profile/gardumi)<br />
+**Conceptualization:** [Youssef Almulla](https://www.kth.se/profile/almulla), [Emir Fejzic](https://www.kth.se/profile/fejzic), [Vignesh Sridharan](https://www.imperial.ac.uk/sustainable-gas-institute/people/staffresearchers/), [Klodian Zaimi](https://www.researchgate.net/profile/Klodian-Zaimi/) , [Lucia De Strasser](https://unece.org/environment-policy/water/contacts/staff-unece-secretariat-servicing-convention/) and [Francesco Gardumi](https://www.kth.se/profile/gardumi). <br />
+**Methodology:** [Youssef Almulla](https://www.kth.se/profile/almulla) and [Francesco Gardumi](https://www.kth.se/profile/gardumi) on the energy model, [Klodian Zaimi](https://www.researchgate.net/profile/Klodian-Zaimi/)  on the water model. <br />
+**Software:** [Youssef Almulla](https://github.com/JZF07), [Emir Fejzic](https://github.com/EmiFej), [Vignesh Sridharan](https://github.com/vignesh1987) and [Francesco Gardumi](https://github.com/FraGard). <br />
+**Funding, Management and Advisory support:** [Lucia De Strasser](https://unece.org/environment-policy/water/contacts/staff-unece-secretariat-servicing-convention/) <br />and [Francesco Gardumi](https://www.kth.se/profile/gardumi). <br />
