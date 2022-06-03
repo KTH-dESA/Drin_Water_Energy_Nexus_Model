@@ -2,10 +2,12 @@
 
 .snakemake
 .ipynb_checkpoints
+cbcinput.lp
+cbcoutput.txt
 
-osemosys_scenarios/cbcoutput.txt
+*/res/
 
-osemosys_scenarios/res/
-
-
+preprocessing/processed_data
+results/graphs
+results/tables
 Data/
