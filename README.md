@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/248276268.svg)](https://zenodo.org/badge/latestdoi/248276268)
+
 # Drin nexus assessment model
 
 Python scripts for the integrated Water-Energy model of the Drin River Basin. 
